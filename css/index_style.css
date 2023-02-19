@@ -108,12 +108,12 @@ body{
 .swiper-button-prev{left: 0px;}
 .swiper-button-next{right: 0px;}
 .swiper-button-prev{content:url(../images/left.png);
-	width:50px;
-	height:42px;
+	width:18px;
+	height:31px;
 }
 .swiper-button-next{content:url(../images/right.png);
-		width:50px;
-		height:42px;
+		width:18px;
+		height:31px;
 }
 
 
